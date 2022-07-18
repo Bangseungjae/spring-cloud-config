@@ -1,6 +1,6 @@
-token:
-  expiration_time: 86400000
-  secret: my_token_default
-
-gateway:
-  ip: 192.168.0.2
+datasource:
+  driver-class-name: org.h2.Driver
+  url: jdbc:h2:tcp://localhost/~/testdb
+  username: sa
+  password:
+  # password: '{cipher}ef756d7b4d2af5866748849daf1c69e18af2bf25d4e1c8d26e2ad4c40ca7c2ce'
