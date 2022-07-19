@@ -8,6 +8,7 @@ gateway:
 spring:
   datasource:
     driver-class-name: org.h2.Driver
-    url: jdbc:h2:tcp://localhost/~/testdb
+    # url: jdbc:h2:tcp://localhost/~/testdb
+    url: jdbc:h2:tcp://localhost/~/testdb3
     username: sa
-    password:
+    password: 1234
