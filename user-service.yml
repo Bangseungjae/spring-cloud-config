@@ -4,4 +4,4 @@ spring:
     # url: jdbc:h2:tcp://localhost/~/testdb
     url: jdbc:h2:tcp://localhost/~/testdb3
     username: sa
-    password: "{cipher}AQAZ1Zq5jrXl9VgIFRyAY2NFNZ3gGe7tdxQ1V+M0lxHJ1D605LUV5uUuMwa8kxWs0V+QUyopLCqzBw5K9TXZcp9+B6BLlwOIYPd7cUtyw7E6hcKIB9mENfwySGYzn8AsYxj0PoS0spXHjvhPD4mWjK5ATtCR22rpYOjxIBp62FyFvaVzmISTf3JwFFjmq5/POc3I/2s1NAhxfeiTeCRQt3Z8qQqsDyAZjvD1DQqea/7PbB4Bolx7yzP/0mWD5eSkHB/ayxswaMuQpcN+KvcOKEIJGEnncUO9X2LkIdi0+cwLkYbnJr3LNdXQi0SmcSOI7aOwci+4naOOq+gypb/UvXCcpqSQQ61BqgPJfpFds70ee/TtaL4y0El1B+DM4S6kmbQ="
+    password: "{cipher}AQAKEuxPvtcuJVuaomWemSjwJt4uBW0zStKh9GdC4ixnoGY8MSAjxckRsALdbCfimCqShk87mg82TQpp4Ucf88N6eRdk8XCnBn+euQ5WVl/69WIB+pNX+4pCrI5tVaTAITGksqzgMHTzqxeSiTd8Awv92uZRtC/bxosDn6g66Q5YcXA2I1gN1SgXV/WQikApAtybWEerR8DGq6r3uarVNcaR0PIa4X+zbWA2aUU5jFdzxDxeA0QGDOylVsj41jR29Zou2U4mSaeJGO5Tv07wieRCuzJXbKjp0GULi8WQeHPiMjpjlQh6ddPqGiLsyqUz5Rd+xuH73lYYK/v3ZV1o5+E5i+Df7N3wJI+OP+AiBRKZ7CvgHwhoUnMuajONd4SXTfE="
