@@ -1,6 +1,6 @@
 spring:
   datasource:
-    driver-class-name: org.h2.Driver
+    driver-class-name: org.mariadb.jdbc.Driver
     # url: jdbc:h2:tcp://localhost/~/testdb
 #    url: jdbc:h2:tcp://localhost/~/testdb3
     url: jdbc:mariadb://mariadb:3306/mydb
